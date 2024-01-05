@@ -1,0 +1,30 @@
+body {
+    border: 4px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 45px;
+    border: #191111;
+    background-image: url("https://wahdah.or.id/wp-content/uploads/2021/06/Copy-paste.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #a1dfb0;
+    justify-content: center;
+}
+
+#title {
+    border: 4px double black;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+#title1, #title2 {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+#btnCopy, #myinput, #discon, #display {
+    padding: 10px;
+    border: 1px solid rgba(16, 5, 1, 0.974)4;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
